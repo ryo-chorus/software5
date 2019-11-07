@@ -1,0 +1,285 @@
+This is e-pTeX, Version 3.14159265-p3.4-130605-2.6 (sjis) (TeX Live 2013/W32TeX) (preloaded format=platex 2014.1.20)  9 FEB 2018 16:35
+entering extended mode
+ restricted \write18 enabled.
+ Source specials enabled.
+ %&-line parsing enabled.
+**document.tex
+(./document.tex
+pLaTeX2e <2006/11/10> (based on LaTeX2e <2011/06/27> patch level 0)
+Babel <3.9h> and hyphenation patterns for 78 languages loaded.
+(c:/w32tex/share/texmf-dist/tex/platex/base/jarticle.cls
+Document Class: jarticle 2006/06/27 v1.6 Standard pLaTeX class
+\c@@paper=\count81
+(c:/w32tex/share/texmf-dist/tex/platex/base/jsize10.clo
+File: jsize10.clo 2006/06/27 v1.6 Standard pLaTeX file (size option)
+)
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 601.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count90
+)
+(c:/w32tex/share/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(c:/w32tex/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(c:/w32tex/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(c:/w32tex/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count91
+\Gm@cntv=\count92
+\c@Gm@tempcnt=\count93
+\Gm@bindingoffset=\dimen121
+\Gm@wd@mp=\dimen122
+\Gm@odd@mp=\dimen123
+\Gm@even@mp=\dimen124
+\Gm@layoutwidth=\dimen125
+\Gm@layoutheight=\dimen126
+\Gm@layouthoffset=\dimen127
+\Gm@layoutvoffset=\dimen128
+\Gm@dimlist=\toks16
+
+(c:/w32tex/share/texmf-dist/tex/latex/geometry/geometry.cfg))
+(c:/w32tex/share/texmf-dist/tex/latex/listings/jlisting.sty
+Package: jlisting 2006/02/20 0.2 (Thor)
+\lst@nextchar=\count94
+\lst@inputfile=\read1
+)
+(c:/w32tex/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count95
+\lst@gtempboxa=\box41
+\lst@token=\toks17
+\lst@length=\count96
+\lst@currlwidth=\dimen129
+\lst@column=\count97
+\lst@pos=\count98
+\lst@lostspace=\dimen130
+\lst@width=\dimen131
+\lst@newlines=\count99
+\lst@lineno=\count100
+\lst@maxwidth=\dimen132
+
+(c:/w32tex/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+\c@lstnumber=\count101
+\lst@skipnumbers=\count102
+\lst@framebox=\box42
+)
+(c:/w32tex/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2013/08/26 1.5b listings configuration
+))
+Package: listings 2013/08/26 1.5b (Carsten Heinz)
+
+(c:/w32tex/share/texmf-dist/tex/latex/here/here.sty)
+(c:/w32tex/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count103
+\float@exts=\toks18
+\float@box=\box43
+\@float@everytoks=\toks19
+\@floatcapt=\box44
+)
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(c:/w32tex/share/texmf-dist/tex/latex/config/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 91.
+
+(c:/w32tex/share/texmf-dist/tex/latex/graphics/dvipdfmx.def
+File: dvipdfmx.def 2014/01/23 v3.4 LaTeX graphics driver for dvipdfmx (TeX Live
+/ChoF)
+))
+\Gin@req@height=\dimen133
+\Gin@req@width=\dimen134
+)
+(c:/w32tex/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2013/08/26 1.5b listings language file
+)
+(c:/w32tex/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2013/08/26 1.5b (Carsten Heinz)
+) (./document.aux)
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 745.46222pt, 42.67912pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=745.46222pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=7.77588pt
+* \footskip=30.0pt
+* \marginparwidth=106.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count104
+[1
+
+]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 45.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 46.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 46.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
+ (c:/w32tex/share/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 51.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 51.
+ [2
+
+] [3] [4] [5]
+[6]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <7> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 355.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <7> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 355.
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <7> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 355.
+
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 424.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 424.
+
+[7] [8] [9] [10] [11] [12] [13] [14]
+Overfull \hbox (8.26605pt too wide) in paragraph at lines 831--832
+[][]\OT1/cmr/m/n/10 token\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 var-type\JY1/mc/m/n/
+10 、 \OT1/cmr/m/n/10 ar-rayflag\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 varar-ray-siz
+e\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 varar-ray-type\JY1/mc/m/n/10 、 \OT1/cmr/m/n
+/10 shik-i-type\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 shikiar-ray-size\JY1/mc/m/n/10
+ 、 \OT1/cmr/m/n/10 shikiar-
+ []
+
+[15] [16]
+Overfull \hbox (30.00034pt too wide) in paragraph at lines 956--960
+\OT1/cmr/m/n/10 mysam-ple035.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple036.
+mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple037.mpl\JY1/mc/m/n/10 、 \OT1/cmr
+/m/n/10 mysam-ple038.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple039.mpl\JY1/
+mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple0310.mpl\JY1/mc/m/n/10 、
+ []
+
+
+Overfull \hbox (1.07124pt too wide) in paragraph at lines 956--960
+\OT1/cmr/m/n/10 mysam-ple0311.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple031
+2.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple0313.mpl\JY1/mc/m/n/10 、 \OT1/
+cmr/m/n/10 mysam-ple0314.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple0315.mpl
+\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-
+ []
+
+
+Overfull \hbox (14.38919pt too wide) in paragraph at lines 956--960
+\OT1/cmr/m/n/10 ple0316.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple0317.mpl\
+JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple0318.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/
+n/10 mysam-ple0319.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple0320.mpl\JY1/m
+c/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple31.mpl\JY1/mc/m/n/10 、
+ []
+
+[17]
+Overfull \hbox (18.0801pt too wide) in paragraph at lines 968--969
+[][]\OT1/cmr/m/n/10 sample31p.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 sam-ple33p\J
+Y1/mc/m/n/10 、 \OT1/cmr/m/n/10 sam-ple34.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 
+sam-ple35.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple31.mpl\JY1/mc/m/n/10 、
+ \OT1/cmr/m/n/10 mysam-ple32.mpl\JY1/mc/m/n/10 、 \OT1/cmr/m/n/10 mysam-ple33.m
+pl
+ []
+
+File: kadai3-jizen.png Graphic file (type bmp)
+<kadai3-jizen.png>
+File: kadai3-shusei.png Graphic file (type bmp)
+ <kadai3-shusei.png> [18] [19] (./document.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2587 strings out of 493813
+ 36237 string characters out of 6153871
+ 152218 words of memory out of 5000000
+ 6057 multiletter control sequences out of 15000+600000
+ 11229 words of font info for 46 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 26i,5n,49p,296b,1235s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+Output written on document.dvi (19 pages, 73980 bytes).
